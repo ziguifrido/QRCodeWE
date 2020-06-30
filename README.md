@@ -10,3 +10,5 @@ QRCode Web Extension
 ## Links
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/qrcode-web-extension/olbmcjijmiibmlflipolnfjnmeapknpj)
+
+[Firefox Browser ADD-ONS](https://addons.mozilla.org/pt-BR/firefox/addon/qrcode-web-extension/)
